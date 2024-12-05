@@ -20,6 +20,6 @@ in the terminal.
 
 ## Getting started
  All figures and numerical results are already available. To recreate them, there are 3 main files:
- * 'generate_bilevel_problem_solution.py' solves the bilevel learning problem associated with determining optimal filters for fields of experts regularizer of an inpainting MNIST problem.
- * 'generate_results.py' re-solves the sequence of Hessian systems encountered in bilevel learning problem solve, employing numerous recycling Krylov  subspace strategies. 
- * 'generate_plots.py' displays all results associated with the different recycling strategies.
+ * `generate_bilevel_problem_solution.py` solves the bilevel learning problem associated with determining optimal filters for fields of experts regularizer of an inpainting MNIST problem.
+ * `generate_results.py` re-solves the sequence of Hessian systems encountered in bilevel learning problem solve, employing numerous recycling Krylov  subspace strategies. 
+ * `generate_plots.py` displays all results associated with the different recycling strategies.
