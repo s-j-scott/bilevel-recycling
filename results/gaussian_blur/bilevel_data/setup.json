@@ -1,0 +1,59 @@
+{
+      "problem_setup": {
+            "ground_truth": "BSDS",
+            "data_num": 64,
+            "num_crops_per_image": 8,
+            "batch_size": 16,
+            "float": 64,
+            "forward_op": "gaussian_blur",
+            "sigma": 3.0,
+            "mask": 0.7,
+            "n": 64,
+            "noiselevel": 0.2,
+            "multiple_As": true,
+            "train": true,
+            "regulariser": {
+                  "name": "FieldOfExperts",
+                  "filter_shape": 5,
+                  "filter_num": 24,
+                  "expert": "lorentzian",
+                  "gamma": 0.1,
+                  "eps": 1e-06,
+                  "params": "DCT",
+                  "learn_filters": true,
+                  "learn_reg_params": true
+            }
+      },
+      "solver_optns": {
+            "ll_solve": {
+                  "solver": "L-BFGS",
+                  "max_its": 16000,
+                  "tol": 0.001,
+                  "warm_start": true,
+                  "verbose": false,
+                  "store_iters": false,
+                  "num_store": 10,
+                  "full_info": false
+            },
+            "hess_sys": {
+                  "max_its": 16000,
+                  "tol": 0.001,
+                  "warm_start": true,
+                  "verbose": false,
+                  "store_solns": false,
+                  "solver": "MINRES",
+                  "recycle_strategy": null,
+                  "recycle_dim": 5
+            },
+            "ul_solve": {
+                  "solver": "Adam",
+                  "max_its": 50,
+                  "tol": 0.01,
+                  "verbose": true,
+                  "store_iters": true,
+                  "full_info": true,
+                  "backtrack": false,
+                  "step_size": 0.01
+            }
+      }
+}
