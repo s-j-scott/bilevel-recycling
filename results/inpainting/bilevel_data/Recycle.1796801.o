@@ -1,0 +1,744 @@
+sending incremental file list
+DEMO_autofun.py
+          1,233 100%    0.00kB/s    0:00:00            1,233 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=368/369)
+README.md
+          1,689 100%    1.61MB/s    0:00:00            1,689 100%    1.61MB/s    0:00:00 (xfr#2, to-chk=367/369)
+demo_hessian_solve.py
+         13,108 100%    6.25MB/s    0:00:00           13,108 100%    6.25MB/s    0:00:00 (xfr#3, to-chk=366/369)
+demo_lower_level_solve.py
+         13,814 100%    4.39MB/s    0:00:00           13,814 100%    4.39MB/s    0:00:00 (xfr#4, to-chk=365/369)
+generate_plots.py
+         11,512 100%    2.74MB/s    0:00:00           11,512 100%    2.74MB/s    0:00:00 (xfr#5, to-chk=364/369)
+generate_results.py
+         20,825 100%    3.97MB/s    0:00:00           20,825 100%    3.97MB/s    0:00:00 (xfr#6, to-chk=363/369)
+main.py
+          7,619 100%    1.21MB/s    0:00:00            7,619 100%    1.21MB/s    0:00:00 (xfr#7, to-chk=362/369)
+data/
+data/BSDS300-images/
+data/BSDS300-images/BSDS300/
+data/BSDS300-images/BSDS300/iids_test.txt
+            662 100%   92.35kB/s    0:00:00              662 100%   92.35kB/s    0:00:00 (xfr#8, to-chk=354/369)
+data/BSDS300-images/BSDS300/iids_train.txt
+          1,334 100%  162.84kB/s    0:00:00            1,334 100%  162.84kB/s    0:00:00 (xfr#9, to-chk=353/369)
+data/BSDS300-images/BSDS300/images/
+data/BSDS300-images/BSDS300/images/test/
+data/BSDS300-images/BSDS300/images/test/101085.jpg
+         32,768  31%    3.47MB/s    0:00:00          102,655 100%   10.88MB/s    0:00:00 (xfr#10, to-chk=349/369)
+data/BSDS300-images/BSDS300/images/test/101087.jpg
+         32,768  56%    3.12MB/s    0:00:00           57,725 100%    5.00MB/s    0:00:00 (xfr#11, to-chk=348/369)
+data/BSDS300-images/BSDS300/images/test/102061.jpg
+         32,768  51%    2.60MB/s    0:00:00           64,008 100%    5.09MB/s    0:00:00 (xfr#12, to-chk=347/369)
+data/BSDS300-images/BSDS300/images/test/103070.jpg
+         32,768  55%    2.40MB/s    0:00:00           59,240 100%    4.35MB/s    0:00:00 (xfr#13, to-chk=346/369)
+data/BSDS300-images/BSDS300/images/test/105025.jpg
+         32,768  40%    2.23MB/s    0:00:00           79,928 100%    5.44MB/s    0:00:00 (xfr#14, to-chk=345/369)
+data/BSDS300-images/BSDS300/images/test/106024.jpg
+         32,768  68%    1.95MB/s    0:00:00           47,544 100%    2.83MB/s    0:00:00 (xfr#15, to-chk=344/369)
+data/BSDS300-images/BSDS300/images/test/108005.jpg
+         32,768  40%    1.84MB/s    0:00:00           81,296 100%    4.56MB/s    0:00:00 (xfr#16, to-chk=343/369)
+data/BSDS300-images/BSDS300/images/test/108070.jpg
+         32,768  33%    1.74MB/s    0:00:00           98,883 100%    5.24MB/s    0:00:00 (xfr#17, to-chk=342/369)
+data/BSDS300-images/BSDS300/images/test/108082.jpg
+         32,768  46%    1.64MB/s    0:00:00           70,106 100%    3.52MB/s    0:00:00 (xfr#18, to-chk=341/369)
+data/BSDS300-images/BSDS300/images/test/109053.jpg
+         32,768  49%    1.56MB/s    0:00:00           66,196 100%    3.16MB/s    0:00:00 (xfr#19, to-chk=340/369)
+data/BSDS300-images/BSDS300/images/test/119082.jpg
+         32,768  41%    1.49MB/s    0:00:00           78,023 100%    3.54MB/s    0:00:00 (xfr#20, to-chk=339/369)
+data/BSDS300-images/BSDS300/images/test/12084.jpg
+         32,768  35%    1.36MB/s    0:00:00           91,272 100%    3.78MB/s    0:00:00 (xfr#21, to-chk=338/369)
+data/BSDS300-images/BSDS300/images/test/123074.jpg
+         32,768  49%    1.30MB/s    0:00:00           66,748 100%    2.65MB/s    0:00:00 (xfr#22, to-chk=337/369)
+data/BSDS300-images/BSDS300/images/test/126007.jpg
+         32,768  53%    1.25MB/s    0:00:00           61,164 100%    2.33MB/s    0:00:00 (xfr#23, to-chk=336/369)
+data/BSDS300-images/BSDS300/images/test/130026.jpg
+         32,768  38%    1.20MB/s    0:00:00           86,102 100%    3.16MB/s    0:00:00 (xfr#24, to-chk=335/369)
+data/BSDS300-images/BSDS300/images/test/134035.jpg
+         32,768  36%    1.12MB/s    0:00:00           88,763 100%    3.02MB/s    0:00:00 (xfr#25, to-chk=334/369)
+data/BSDS300-images/BSDS300/images/test/14037.jpg
+         32,768  70%    1.08MB/s    0:00:00           46,483 100%    1.53MB/s    0:00:00 (xfr#26, to-chk=333/369)
+data/BSDS300-images/BSDS300/images/test/143090.jpg
+         32,768  70%    1.04MB/s    0:00:00           46,374 100%    1.47MB/s    0:00:00 (xfr#27, to-chk=332/369)
+data/BSDS300-images/BSDS300/images/test/145086.jpg
+         32,768  41%    1.01MB/s    0:00:00           78,240 100%    2.41MB/s    0:00:00 (xfr#28, to-chk=331/369)
+data/BSDS300-images/BSDS300/images/test/147091.jpg
+         32,768  44% 1000.00kB/s    0:00:00           74,269 100%    2.21MB/s    0:00:00 (xfr#29, to-chk=330/369)
+data/BSDS300-images/BSDS300/images/test/148026.jpg
+         32,768  31%  969.70kB/s    0:00:00          104,836 100%    3.03MB/s    0:00:00 (xfr#30, to-chk=329/369)
+data/BSDS300-images/BSDS300/images/test/148089.jpg
+         32,768  33%  941.18kB/s    0:00:00           96,491 100%    2.71MB/s    0:00:00 (xfr#31, to-chk=328/369)
+data/BSDS300-images/BSDS300/images/test/156065.jpg
+         32,768  34%  941.18kB/s    0:00:00           94,631 100%    2.65MB/s    0:00:00 (xfr#32, to-chk=327/369)
+data/BSDS300-images/BSDS300/images/test/157055.jpg
+         32,768  43%  914.29kB/s    0:00:00           75,175 100%    2.05MB/s    0:00:00 (xfr#33, to-chk=326/369)
+data/BSDS300-images/BSDS300/images/test/159008.jpg
+         32,768  41%  888.89kB/s    0:00:00           78,438 100%    2.08MB/s    0:00:00 (xfr#34, to-chk=325/369)
+data/BSDS300-images/BSDS300/images/test/160068.jpg
+         32,768  55%  842.11kB/s    0:00:00           58,975 100%    1.48MB/s    0:00:00 (xfr#35, to-chk=324/369)
+data/BSDS300-images/BSDS300/images/test/16077.jpg
+         32,768  40%  820.51kB/s    0:00:00           81,508 100%    1.99MB/s    0:00:00 (xfr#36, to-chk=323/369)
+data/BSDS300-images/BSDS300/images/test/163085.jpg
+         32,768  49%  820.51kB/s    0:00:00           66,207 100%    1.62MB/s    0:00:00 (xfr#37, to-chk=322/369)
+data/BSDS300-images/BSDS300/images/test/167062.jpg
+         32,768  74%  780.49kB/s    0:00:00           43,691 100%    1.02MB/s    0:00:00 (xfr#38, to-chk=321/369)
+data/BSDS300-images/BSDS300/images/test/167083.jpg
+         32,768  30%  780.49kB/s    0:00:00          108,409 100%    2.52MB/s    0:00:00 (xfr#39, to-chk=320/369)
+data/BSDS300-images/BSDS300/images/test/170057.jpg
+         32,768  47%  761.90kB/s    0:00:00           69,025 100%    1.57MB/s    0:00:00 (xfr#40, to-chk=319/369)
+data/BSDS300-images/BSDS300/images/test/175032.jpg
+         32,768  27%  761.90kB/s    0:00:00          120,999 100%    2.75MB/s    0:00:00 (xfr#41, to-chk=318/369)
+data/BSDS300-images/BSDS300/images/test/175043.jpg
+         32,768  33%  744.19kB/s    0:00:00           98,009 100%    2.17MB/s    0:00:00 (xfr#42, to-chk=317/369)
+data/BSDS300-images/BSDS300/images/test/182053.jpg
+         32,768  45%  744.19kB/s    0:00:00           72,386 100%    1.61MB/s    0:00:00 (xfr#43, to-chk=316/369)
+data/BSDS300-images/BSDS300/images/test/189080.jpg
+         32,768  63%  727.27kB/s    0:00:00           51,286 100%    1.11MB/s    0:00:00 (xfr#44, to-chk=315/369)
+data/BSDS300-images/BSDS300/images/test/19021.jpg
+         32,768  40%  711.11kB/s    0:00:00           81,849 100%    1.73MB/s    0:00:00 (xfr#45, to-chk=314/369)
+data/BSDS300-images/BSDS300/images/test/196073.jpg
+         32,768  40%  695.65kB/s    0:00:00           81,545 100%    1.69MB/s    0:00:00 (xfr#46, to-chk=313/369)
+data/BSDS300-images/BSDS300/images/test/197017.jpg
+         32,768  44%  680.85kB/s    0:00:00           74,020 100%    1.50MB/s    0:00:00 (xfr#47, to-chk=312/369)
+data/BSDS300-images/BSDS300/images/test/208001.jpg
+         32,768  41%  666.67kB/s    0:00:00           78,959 100%    1.57MB/s    0:00:00 (xfr#48, to-chk=311/369)
+data/BSDS300-images/BSDS300/images/test/210088.jpg
+         32,768  53%  653.06kB/s    0:00:00           60,955 100%    1.19MB/s    0:00:00 (xfr#49, to-chk=310/369)
+data/BSDS300-images/BSDS300/images/test/21077.jpg
+         32,768  43%  653.06kB/s    0:00:00           75,661 100%    1.47MB/s    0:00:00 (xfr#50, to-chk=309/369)
+data/BSDS300-images/BSDS300/images/test/216081.jpg
+         32,768  38%  640.00kB/s    0:00:00           84,459 100%    1.61MB/s    0:00:00 (xfr#51, to-chk=308/369)
+data/BSDS300-images/BSDS300/images/test/219090.jpg
+         32,768  49%  615.38kB/s    0:00:00           66,534 100%    1.22MB/s    0:00:00 (xfr#52, to-chk=307/369)
+data/BSDS300-images/BSDS300/images/test/220075.jpg
+         32,768  47%  615.38kB/s    0:00:00           68,922 100%    1.26MB/s    0:00:00 (xfr#53, to-chk=306/369)
+data/BSDS300-images/BSDS300/images/test/223061.jpg
+         32,768  39%  592.59kB/s    0:00:00           82,108 100%    1.45MB/s    0:00:00 (xfr#54, to-chk=305/369)
+data/BSDS300-images/BSDS300/images/test/227092.jpg
+         32,768  71%  581.82kB/s    0:00:00           46,049 100%  817.63kB/s    0:00:00 (xfr#55, to-chk=304/369)
+data/BSDS300-images/BSDS300/images/test/229036.jpg
+         32,768  32%  581.82kB/s    0:00:00          100,079 100%    1.74MB/s    0:00:00 (xfr#56, to-chk=303/369)
+data/BSDS300-images/BSDS300/images/test/236037.jpg
+         32,768  34%  571.43kB/s    0:00:00           93,729 100%    1.60MB/s    0:00:00 (xfr#57, to-chk=302/369)
+data/BSDS300-images/BSDS300/images/test/24077.jpg
+         32,768  42%  561.40kB/s    0:00:00           76,548 100%    1.28MB/s    0:00:00 (xfr#58, to-chk=301/369)
+data/BSDS300-images/BSDS300/images/test/241004.jpg
+         32,768  58%  561.40kB/s    0:00:00           55,975 100%  959.00kB/s    0:00:00 (xfr#59, to-chk=300/369)
+data/BSDS300-images/BSDS300/images/test/241048.jpg
+         32,768  36%  551.72kB/s    0:00:00           90,429 100%    1.49MB/s    0:00:00 (xfr#60, to-chk=299/369)
+data/BSDS300-images/BSDS300/images/test/253027.jpg
+         32,768  40%  542.37kB/s    0:00:00           80,141 100%    1.30MB/s    0:00:00 (xfr#61, to-chk=298/369)
+data/BSDS300-images/BSDS300/images/test/253055.jpg
+         32,768  60%  542.37kB/s    0:00:00           53,959 100%  893.12kB/s    0:00:00 (xfr#62, to-chk=297/369)
+data/BSDS300-images/BSDS300/images/test/260058.jpg
+         32,768  55%  533.33kB/s    0:00:00           59,416 100%  967.06kB/s    0:00:00 (xfr#63, to-chk=296/369)
+data/BSDS300-images/BSDS300/images/test/271035.jpg
+         32,768  42%  533.33kB/s    0:00:00           77,874 100%    1.24MB/s    0:00:00 (xfr#64, to-chk=295/369)
+data/BSDS300-images/BSDS300/images/test/285079.jpg
+         32,768  35%  524.59kB/s    0:00:00           92,387 100%    1.44MB/s    0:00:00 (xfr#65, to-chk=294/369)
+data/BSDS300-images/BSDS300/images/test/291000.jpg
+         32,768  26%  516.13kB/s    0:00:00          126,011 100%    1.94MB/s    0:00:00 (xfr#66, to-chk=293/369)
+data/BSDS300-images/BSDS300/images/test/295087.jpg
+         32,768  43%  516.13kB/s    0:00:00           75,379 100%    1.16MB/s    0:00:00 (xfr#67, to-chk=292/369)
+data/BSDS300-images/BSDS300/images/test/296007.jpg
+         32,768  53%  507.94kB/s    0:00:00           61,816 100%  958.21kB/s    0:00:00 (xfr#68, to-chk=291/369)
+data/BSDS300-images/BSDS300/images/test/296059.jpg
+         32,768  51%  507.94kB/s    0:00:00           64,207 100%  995.27kB/s    0:00:00 (xfr#69, to-chk=290/369)
+data/BSDS300-images/BSDS300/images/test/299086.jpg
+         32,768  55%  492.31kB/s    0:00:00           59,092 100%  887.80kB/s    0:00:00 (xfr#70, to-chk=289/369)
+data/BSDS300-images/BSDS300/images/test/300091.jpg
+         32,768  51%  492.31kB/s    0:00:00           63,245 100%  950.20kB/s    0:00:00 (xfr#71, to-chk=288/369)
+data/BSDS300-images/BSDS300/images/test/302008.jpg
+         32,768  70%  492.31kB/s    0:00:00           46,424 100%  697.48kB/s    0:00:00 (xfr#72, to-chk=287/369)
+data/BSDS300-images/BSDS300/images/test/304034.jpg
+         32,768  34%  484.85kB/s    0:00:00           94,784 100%    1.37MB/s    0:00:00 (xfr#73, to-chk=286/369)
+data/BSDS300-images/BSDS300/images/test/304074.jpg
+         32,768  34%  477.61kB/s    0:00:00           94,891 100%    1.35MB/s    0:00:00 (xfr#74, to-chk=285/369)
+data/BSDS300-images/BSDS300/images/test/306005.jpg
+         32,768  43%  470.59kB/s    0:00:00           74,767 100%    1.05MB/s    0:00:00 (xfr#75, to-chk=284/369)
+data/BSDS300-images/BSDS300/images/test/3096.jpg
+         30,773 100%  435.53kB/s    0:00:00           30,773 100%  435.53kB/s    0:00:00 (xfr#76, to-chk=283/369)
+data/BSDS300-images/BSDS300/images/test/33039.jpg
+         32,768  28%  463.77kB/s    0:00:00          115,454 100%    1.57MB/s    0:00:00 (xfr#77, to-chk=282/369)
+data/BSDS300-images/BSDS300/images/test/351093.jpg
+         32,768  37%  457.14kB/s    0:00:00           87,813 100%    1.20MB/s    0:00:00 (xfr#78, to-chk=281/369)
+data/BSDS300-images/BSDS300/images/test/361010.jpg
+         32,768  46%  450.70kB/s    0:00:00           70,171 100%  965.16kB/s    0:00:00 (xfr#79, to-chk=280/369)
+data/BSDS300-images/BSDS300/images/test/37073.jpg
+         32,768  49%  444.44kB/s    0:00:00           66,481 100%  901.71kB/s    0:00:00 (xfr#80, to-chk=279/369)
+data/BSDS300-images/BSDS300/images/test/376043.jpg
+         32,768  34%  438.36kB/s    0:00:00           94,569 100%    1.24MB/s    0:00:00 (xfr#81, to-chk=278/369)
+data/BSDS300-images/BSDS300/images/test/38082.jpg
+         32,768  36%  438.36kB/s    0:00:00           90,009 100%    1.18MB/s    0:00:00 (xfr#82, to-chk=277/369)
+data/BSDS300-images/BSDS300/images/test/38092.jpg
+         32,768  39%  432.43kB/s    0:00:00           81,947 100%    1.06MB/s    0:00:00 (xfr#83, to-chk=276/369)
+data/BSDS300-images/BSDS300/images/test/385039.jpg
+         32,768  39%  432.43kB/s    0:00:00           83,554 100%    1.08MB/s    0:00:00 (xfr#84, to-chk=275/369)
+data/BSDS300-images/BSDS300/images/test/41033.jpg
+         32,768  49%  426.67kB/s    0:00:00           65,565 100%  853.71kB/s    0:00:00 (xfr#85, to-chk=274/369)
+data/BSDS300-images/BSDS300/images/test/41069.jpg
+         32,768  32%  426.67kB/s    0:00:00          100,387 100%    1.28MB/s    0:00:00 (xfr#86, to-chk=273/369)
+data/BSDS300-images/BSDS300/images/test/42012.jpg
+         32,768  51%  415.58kB/s    0:00:00           63,889 100%  810.28kB/s    0:00:00 (xfr#87, to-chk=272/369)
+data/BSDS300-images/BSDS300/images/test/42049.jpg
+         32,768  72%  415.58kB/s    0:00:00           45,026 100%  571.05kB/s    0:00:00 (xfr#88, to-chk=271/369)
+data/BSDS300-images/BSDS300/images/test/43074.jpg
+         32,768  58%  415.58kB/s    0:00:00           56,383 100%  715.08kB/s    0:00:00 (xfr#89, to-chk=270/369)
+data/BSDS300-images/BSDS300/images/test/45096.jpg
+         32,768  84%  410.26kB/s    0:00:00           38,606 100%  483.35kB/s    0:00:00 (xfr#90, to-chk=269/369)
+data/BSDS300-images/BSDS300/images/test/54082.jpg
+         32,768  45%  410.26kB/s    0:00:00           71,425 100%  894.24kB/s    0:00:00 (xfr#91, to-chk=268/369)
+data/BSDS300-images/BSDS300/images/test/55073.jpg
+         32,768  29%  400.00kB/s    0:00:00          110,151 100%    1.31MB/s    0:00:00 (xfr#92, to-chk=267/369)
+data/BSDS300-images/BSDS300/images/test/58060.jpg
+         32,768  33%  395.06kB/s    0:00:00           97,910 100%    1.15MB/s    0:00:00 (xfr#93, to-chk=266/369)
+data/BSDS300-images/BSDS300/images/test/62096.jpg
+         32,768  42%  390.24kB/s    0:00:00           76,806 100%  914.71kB/s    0:00:00 (xfr#94, to-chk=265/369)
+data/BSDS300-images/BSDS300/images/test/65033.jpg
+         32,768  33%  390.24kB/s    0:00:00           96,558 100%    1.12MB/s    0:00:00 (xfr#95, to-chk=264/369)
+data/BSDS300-images/BSDS300/images/test/66053.jpg
+         32,768  41%  385.54kB/s    0:00:00           78,243 100%  920.59kB/s    0:00:00 (xfr#96, to-chk=263/369)
+data/BSDS300-images/BSDS300/images/test/69015.jpg
+         32,768  48%  385.54kB/s    0:00:00           66,924 100%  787.42kB/s    0:00:00 (xfr#97, to-chk=262/369)
+data/BSDS300-images/BSDS300/images/test/69020.jpg
+         32,768  34%  380.95kB/s    0:00:00           93,730 100%    1.06MB/s    0:00:00 (xfr#98, to-chk=261/369)
+data/BSDS300-images/BSDS300/images/test/69040.jpg
+         32,768  37%  376.47kB/s    0:00:00           87,327 100% 1003.30kB/s    0:00:00 (xfr#99, to-chk=260/369)
+data/BSDS300-images/BSDS300/images/test/76053.jpg
+         32,768  42%  372.09kB/s    0:00:00           76,799 100%  872.08kB/s    0:00:00 (xfr#100, to-chk=259/369)
+data/BSDS300-images/BSDS300/images/test/78004.jpg
+         32,768  47%  367.82kB/s    0:00:00           68,825 100%  772.55kB/s    0:00:00 (xfr#101, to-chk=258/369)
+data/BSDS300-images/BSDS300/images/test/8023.jpg
+         32,768  54%  367.82kB/s    0:00:00           60,404 100%  678.03kB/s    0:00:00 (xfr#102, to-chk=257/369)
+data/BSDS300-images/BSDS300/images/test/85048.jpg
+         32,768  38%  363.64kB/s    0:00:00           86,078 100%  955.23kB/s    0:00:00 (xfr#103, to-chk=256/369)
+data/BSDS300-images/BSDS300/images/test/86000.jpg
+         32,768  43%  363.64kB/s    0:00:00           75,759 100%  840.72kB/s    0:00:00 (xfr#104, to-chk=255/369)
+data/BSDS300-images/BSDS300/images/test/86016.jpg
+         32,768  29%  359.55kB/s    0:00:00          110,076 100%    1.18MB/s    0:00:00 (xfr#105, to-chk=254/369)
+data/BSDS300-images/BSDS300/images/test/86068.jpg
+         32,768  35%  359.55kB/s    0:00:00           93,040 100% 1020.89kB/s    0:00:00 (xfr#106, to-chk=253/369)
+data/BSDS300-images/BSDS300/images/test/87046.jpg
+         32,768  41%  355.56kB/s    0:00:00           78,536 100%  852.17kB/s    0:00:00 (xfr#107, to-chk=252/369)
+data/BSDS300-images/BSDS300/images/test/89072.jpg
+         32,768  40%  355.56kB/s    0:00:00           81,376 100%  882.99kB/s    0:00:00 (xfr#108, to-chk=251/369)
+data/BSDS300-images/BSDS300/images/test/97033.jpg
+         32,768  37%  351.65kB/s    0:00:00           88,134 100%  945.81kB/s    0:00:00 (xfr#109, to-chk=250/369)
+data/BSDS300-images/BSDS300/images/train/
+data/BSDS300-images/BSDS300/images/train/100075.jpg
+         32,768  43%  351.65kB/s    0:00:00           75,043 100%  805.32kB/s    0:00:00 (xfr#110, to-chk=249/369)
+data/BSDS300-images/BSDS300/images/train/100080.jpg
+         32,768  80%  347.83kB/s    0:00:00           40,866 100%  433.78kB/s    0:00:00 (xfr#111, to-chk=248/369)
+data/BSDS300-images/BSDS300/images/train/100098.jpg
+         32,768  31%  344.09kB/s    0:00:00          104,854 100%    1.08MB/s    0:00:00 (xfr#112, to-chk=247/369)
+data/BSDS300-images/BSDS300/images/train/103041.jpg
+         32,768  56%  340.43kB/s    0:00:00           57,599 100%  598.39kB/s    0:00:00 (xfr#113, to-chk=246/369)
+data/BSDS300-images/BSDS300/images/train/104022.jpg
+         32,768  47%  336.84kB/s    0:00:00           69,508 100%  714.51kB/s    0:00:00 (xfr#114, to-chk=245/369)
+data/BSDS300-images/BSDS300/images/train/105019.jpg
+         32,768  51%  336.84kB/s    0:00:00           63,628 100%  654.07kB/s    0:00:00 (xfr#115, to-chk=244/369)
+data/BSDS300-images/BSDS300/images/train/105053.jpg
+         32,768  61%  333.33kB/s    0:00:00           53,269 100%  541.88kB/s    0:00:00 (xfr#116, to-chk=243/369)
+data/BSDS300-images/BSDS300/images/train/106020.jpg
+         32,768  45%  333.33kB/s    0:00:00           71,281 100%  725.11kB/s    0:00:00 (xfr#117, to-chk=242/369)
+data/BSDS300-images/BSDS300/images/train/106025.jpg
+         32,768  87%  333.33kB/s    0:00:00           37,465 100%  381.11kB/s    0:00:00 (xfr#118, to-chk=241/369)
+data/BSDS300-images/BSDS300/images/train/108041.jpg
+         32,768  47%  329.90kB/s    0:00:00           68,515 100%  689.79kB/s    0:00:00 (xfr#119, to-chk=240/369)
+data/BSDS300-images/BSDS300/images/train/108073.jpg
+         32,768  42%  326.53kB/s    0:00:00           76,435 100%  761.67kB/s    0:00:00 (xfr#120, to-chk=239/369)
+data/BSDS300-images/BSDS300/images/train/109034.jpg
+         32,768  30%  323.23kB/s    0:00:00          108,033 100%    1.04MB/s    0:00:00 (xfr#121, to-chk=238/369)
+data/BSDS300-images/BSDS300/images/train/112082.jpg
+         32,768  36%  320.00kB/s    0:00:00           89,708 100%  876.05kB/s    0:00:00 (xfr#122, to-chk=237/369)
+data/BSDS300-images/BSDS300/images/train/113009.jpg
+         32,768  51%  320.00kB/s    0:00:00           64,234 100%  627.29kB/s    0:00:00 (xfr#123, to-chk=236/369)
+data/BSDS300-images/BSDS300/images/train/113016.jpg
+         32,768  34%  316.83kB/s    0:00:00           93,869 100%  907.61kB/s    0:00:00 (xfr#124, to-chk=235/369)
+data/BSDS300-images/BSDS300/images/train/113044.jpg
+         32,768  33%  313.73kB/s    0:00:00           96,952 100%  928.23kB/s    0:00:00 (xfr#125, to-chk=234/369)
+data/BSDS300-images/BSDS300/images/train/117054.jpg
+         32,768  40%  310.68kB/s    0:00:00           81,036 100%  768.32kB/s    0:00:00 (xfr#126, to-chk=233/369)
+data/BSDS300-images/BSDS300/images/train/118020.jpg
+         32,768  39%  310.68kB/s    0:00:00           82,090 100%  778.31kB/s    0:00:00 (xfr#127, to-chk=232/369)
+data/BSDS300-images/BSDS300/images/train/118035.jpg
+         32,768  67%  307.69kB/s    0:00:00           48,797 100%  458.21kB/s    0:00:00 (xfr#128, to-chk=231/369)
+data/BSDS300-images/BSDS300/images/train/12003.jpg
+         32,768  38%  307.69kB/s    0:00:00           85,164 100%  799.69kB/s    0:00:00 (xfr#129, to-chk=230/369)
+data/BSDS300-images/BSDS300/images/train/12074.jpg
+         32,768  54%  304.76kB/s    0:00:00           60,437 100%  562.10kB/s    0:00:00 (xfr#130, to-chk=229/369)
+data/BSDS300-images/BSDS300/images/train/122048.jpg
+         32,768  64%  301.89kB/s    0:00:00           51,019 100%  470.03kB/s    0:00:00 (xfr#131, to-chk=228/369)
+data/BSDS300-images/BSDS300/images/train/124084.jpg
+         32,768  51%  299.07kB/s    0:00:00           63,856 100%  582.80kB/s    0:00:00 (xfr#132, to-chk=227/369)
+data/BSDS300-images/BSDS300/images/train/126039.jpg
+         32,768  67%  299.07kB/s    0:00:00           48,307 100%  440.89kB/s    0:00:00 (xfr#133, to-chk=226/369)
+data/BSDS300-images/BSDS300/images/train/130034.jpg
+         32,768  29%  296.30kB/s    0:00:00          111,146 100% 1005.01kB/s    0:00:00 (xfr#134, to-chk=225/369)
+data/BSDS300-images/BSDS300/images/train/134008.jpg
+         32,768  52%  293.58kB/s    0:00:00           61,842 100%  554.06kB/s    0:00:00 (xfr#135, to-chk=224/369)
+data/BSDS300-images/BSDS300/images/train/134052.jpg
+         32,768  49%  293.58kB/s    0:00:00           65,548 100%  587.26kB/s    0:00:00 (xfr#136, to-chk=223/369)
+data/BSDS300-images/BSDS300/images/train/135037.jpg
+         32,768  80%  288.29kB/s    0:00:00           40,474 100%  356.08kB/s    0:00:00 (xfr#137, to-chk=222/369)
+data/BSDS300-images/BSDS300/images/train/135069.jpg
+         23,655 100%  208.11kB/s    0:00:00           23,655 100%  208.11kB/s    0:00:00 (xfr#138, to-chk=221/369)
+data/BSDS300-images/BSDS300/images/train/138032.jpg
+         32,768  34%  288.29kB/s    0:00:00           96,219 100%  846.52kB/s    0:00:00 (xfr#139, to-chk=220/369)
+data/BSDS300-images/BSDS300/images/train/138078.jpg
+         32,768  45%  285.71kB/s    0:00:00           72,629 100%  633.27kB/s    0:00:00 (xfr#140, to-chk=219/369)
+data/BSDS300-images/BSDS300/images/train/140055.jpg
+         32,768  36%  285.71kB/s    0:00:00           89,820 100%  783.17kB/s    0:00:00 (xfr#141, to-chk=218/369)
+data/BSDS300-images/BSDS300/images/train/140075.jpg
+         32,768  41%  283.19kB/s    0:00:00           79,329 100%  685.57kB/s    0:00:00 (xfr#142, to-chk=217/369)
+data/BSDS300-images/BSDS300/images/train/144067.jpg
+         32,768  38%  280.70kB/s    0:00:00           84,687 100%  725.46kB/s    0:00:00 (xfr#143, to-chk=216/369)
+data/BSDS300-images/BSDS300/images/train/145014.jpg
+         32,768  39%  278.26kB/s    0:00:00           83,165 100%  706.22kB/s    0:00:00 (xfr#144, to-chk=215/369)
+data/BSDS300-images/BSDS300/images/train/145053.jpg
+         32,768  42%  275.86kB/s    0:00:00           76,211 100%  641.59kB/s    0:00:00 (xfr#145, to-chk=214/369)
+data/BSDS300-images/BSDS300/images/train/147021.jpg
+         32,768  54%  275.86kB/s    0:00:00           59,824 100%  503.64kB/s    0:00:00 (xfr#146, to-chk=213/369)
+data/BSDS300-images/BSDS300/images/train/147062.jpg
+         32,768  27%  273.50kB/s    0:00:00          118,136 100%  986.04kB/s    0:00:00 (xfr#147, to-chk=212/369)
+data/BSDS300-images/BSDS300/images/train/15004.jpg
+         32,768  37%  271.19kB/s    0:00:00           87,575 100%  724.77kB/s    0:00:00 (xfr#148, to-chk=211/369)
+data/BSDS300-images/BSDS300/images/train/15088.jpg
+         32,768  56%  271.19kB/s    0:00:00           57,578 100%  476.51kB/s    0:00:00 (xfr#149, to-chk=210/369)
+data/BSDS300-images/BSDS300/images/train/151087.jpg
+         32,768  45%  268.91kB/s    0:00:00           72,005 100%  590.90kB/s    0:00:00 (xfr#150, to-chk=209/369)
+data/BSDS300-images/BSDS300/images/train/153077.jpg
+         32,768  62%  266.67kB/s    0:00:00           52,575 100%  427.86kB/s    0:00:00 (xfr#151, to-chk=208/369)
+data/BSDS300-images/BSDS300/images/train/153093.jpg
+         32,768  48%  264.46kB/s    0:00:00           67,096 100%  541.52kB/s    0:00:00 (xfr#152, to-chk=207/369)
+data/BSDS300-images/BSDS300/images/train/155060.jpg
+         32,768  39%  264.46kB/s    0:00:00           83,924 100%  677.33kB/s    0:00:00 (xfr#153, to-chk=206/369)
+data/BSDS300-images/BSDS300/images/train/156079.jpg
+         32,768  54%  262.30kB/s    0:00:00           59,685 100%  477.76kB/s    0:00:00 (xfr#154, to-chk=205/369)
+data/BSDS300-images/BSDS300/images/train/157036.jpg
+         32,768  35%  262.30kB/s    0:00:00           92,941 100%  743.96kB/s    0:00:00 (xfr#155, to-chk=204/369)
+data/BSDS300-images/BSDS300/images/train/159029.jpg
+         32,768  36%  260.16kB/s    0:00:00           90,038 100%  714.86kB/s    0:00:00 (xfr#156, to-chk=203/369)
+data/BSDS300-images/BSDS300/images/train/159045.jpg
+         32,768  35%  260.16kB/s    0:00:00           93,112 100%  739.27kB/s    0:00:00 (xfr#157, to-chk=202/369)
+data/BSDS300-images/BSDS300/images/train/159091.jpg
+         32,768  40%  258.06kB/s    0:00:00           81,499 100%  641.85kB/s    0:00:00 (xfr#158, to-chk=201/369)
+data/BSDS300-images/BSDS300/images/train/16052.jpg
+         32,768  50%  258.06kB/s    0:00:00           65,364 100%  514.77kB/s    0:00:00 (xfr#159, to-chk=200/369)
+data/BSDS300-images/BSDS300/images/train/161062.jpg
+         32,768  64%  256.00kB/s    0:00:00           50,760 100%  396.56kB/s    0:00:00 (xfr#160, to-chk=199/369)
+data/BSDS300-images/BSDS300/images/train/163014.jpg
+         32,768  54%  256.00kB/s    0:00:00           60,427 100%  472.09kB/s    0:00:00 (xfr#161, to-chk=198/369)
+data/BSDS300-images/BSDS300/images/train/163062.jpg
+         32,768  48%  253.97kB/s    0:00:00           67,443 100%  522.72kB/s    0:00:00 (xfr#162, to-chk=197/369)
+data/BSDS300-images/BSDS300/images/train/164074.jpg
+         32,768  40%  253.97kB/s    0:00:00           80,390 100%  623.06kB/s    0:00:00 (xfr#163, to-chk=196/369)
+data/BSDS300-images/BSDS300/images/train/166081.jpg
+         32,768  42%  251.97kB/s    0:00:00           77,651 100%  597.09kB/s    0:00:00 (xfr#164, to-chk=195/369)
+data/BSDS300-images/BSDS300/images/train/169012.jpg
+         32,768  34%  251.97kB/s    0:00:00           95,533 100%  734.60kB/s    0:00:00 (xfr#165, to-chk=194/369)
+data/BSDS300-images/BSDS300/images/train/170054.jpg
+         32,768  34%  250.00kB/s    0:00:00           95,692 100%  730.07kB/s    0:00:00 (xfr#166, to-chk=193/369)
+data/BSDS300-images/BSDS300/images/train/172032.jpg
+         32,768  68%  250.00kB/s    0:00:00           47,987 100%  366.11kB/s    0:00:00 (xfr#167, to-chk=192/369)
+data/BSDS300-images/BSDS300/images/train/173036.jpg
+         32,768  46%  250.00kB/s    0:00:00           69,795 100%  532.49kB/s    0:00:00 (xfr#168, to-chk=191/369)
+data/BSDS300-images/BSDS300/images/train/176019.jpg
+         32,768  30%  248.06kB/s    0:00:00          106,145 100%  803.54kB/s    0:00:00 (xfr#169, to-chk=190/369)
+data/BSDS300-images/BSDS300/images/train/176035.jpg
+         32,768  46%  248.06kB/s    0:00:00           70,312 100%  532.28kB/s    0:00:00 (xfr#170, to-chk=189/369)
+data/BSDS300-images/BSDS300/images/train/176039.jpg
+         32,768  50%  246.15kB/s    0:00:00           64,476 100%  484.34kB/s    0:00:00 (xfr#171, to-chk=188/369)
+data/BSDS300-images/BSDS300/images/train/178054.jpg
+         32,768  54%  246.15kB/s    0:00:00           59,689 100%  448.38kB/s    0:00:00 (xfr#172, to-chk=187/369)
+data/BSDS300-images/BSDS300/images/train/181018.jpg
+         32,768  57%  244.27kB/s    0:00:00           57,150 100%  426.03kB/s    0:00:00 (xfr#173, to-chk=186/369)
+data/BSDS300-images/BSDS300/images/train/181079.jpg
+         32,768  47%  244.27kB/s    0:00:00           69,359 100%  517.05kB/s    0:00:00 (xfr#174, to-chk=185/369)
+data/BSDS300-images/BSDS300/images/train/181091.jpg
+         32,768  37%  242.42kB/s    0:00:00           87,186 100%  645.02kB/s    0:00:00 (xfr#175, to-chk=184/369)
+data/BSDS300-images/BSDS300/images/train/183055.jpg
+         32,768  59%  242.42kB/s    0:00:00           54,959 100%  406.60kB/s    0:00:00 (xfr#176, to-chk=183/369)
+data/BSDS300-images/BSDS300/images/train/183087.jpg
+         32,768  43%  242.42kB/s    0:00:00           74,858 100%  549.65kB/s    0:00:00 (xfr#177, to-chk=182/369)
+data/BSDS300-images/BSDS300/images/train/187003.jpg
+         32,768  40%  240.60kB/s    0:00:00           81,737 100%  600.16kB/s    0:00:00 (xfr#178, to-chk=181/369)
+data/BSDS300-images/BSDS300/images/train/187029.jpg
+         32,768  58%  240.60kB/s    0:00:00           55,611 100%  408.33kB/s    0:00:00 (xfr#179, to-chk=180/369)
+data/BSDS300-images/BSDS300/images/train/187039.jpg
+         32,768  36%  238.81kB/s    0:00:00           89,431 100%  651.75kB/s    0:00:00 (xfr#180, to-chk=179/369)
+data/BSDS300-images/BSDS300/images/train/187071.jpg
+         32,768  42%  237.04kB/s    0:00:00           77,938 100%  563.79kB/s    0:00:00 (xfr#181, to-chk=178/369)
+data/BSDS300-images/BSDS300/images/train/187083.jpg
+         32,768  59%  235.29kB/s    0:00:00           54,658 100%  392.48kB/s    0:00:00 (xfr#182, to-chk=177/369)
+data/BSDS300-images/BSDS300/images/train/188005.jpg
+         32,768  51%  235.29kB/s    0:00:00           63,535 100%  456.22kB/s    0:00:00 (xfr#183, to-chk=176/369)
+data/BSDS300-images/BSDS300/images/train/188063.jpg
+         32,768  59%  235.29kB/s    0:00:00           55,370 100%  397.59kB/s    0:00:00 (xfr#184, to-chk=175/369)
+data/BSDS300-images/BSDS300/images/train/188091.jpg
+         32,768  82%  233.58kB/s    0:00:00           39,880 100%  284.27kB/s    0:00:00 (xfr#185, to-chk=174/369)
+data/BSDS300-images/BSDS300/images/train/189003.jpg
+         32,768  40%  233.58kB/s    0:00:00           80,339 100%  572.67kB/s    0:00:00 (xfr#186, to-chk=173/369)
+data/BSDS300-images/BSDS300/images/train/189011.jpg
+         32,768  59%  231.88kB/s    0:00:00           55,274 100%  391.15kB/s    0:00:00 (xfr#187, to-chk=172/369)
+data/BSDS300-images/BSDS300/images/train/196015.jpg
+         32,768  49%  231.88kB/s    0:00:00           66,079 100%  467.61kB/s    0:00:00 (xfr#188, to-chk=171/369)
+data/BSDS300-images/BSDS300/images/train/198004.jpg
+         32,768  54%  230.22kB/s    0:00:00           60,400 100%  424.35kB/s    0:00:00 (xfr#189, to-chk=170/369)
+data/BSDS300-images/BSDS300/images/train/198023.jpg
+         32,768  37%  230.22kB/s    0:00:00           86,943 100%  610.83kB/s    0:00:00 (xfr#190, to-chk=169/369)
+data/BSDS300-images/BSDS300/images/train/198054.jpg
+         32,768  35%  228.57kB/s    0:00:00           92,645 100%  646.24kB/s    0:00:00 (xfr#191, to-chk=168/369)
+data/BSDS300-images/BSDS300/images/train/20008.jpg
+         32,768  52%  228.57kB/s    0:00:00           62,841 100%  438.34kB/s    0:00:00 (xfr#192, to-chk=167/369)
+data/BSDS300-images/BSDS300/images/train/202012.jpg
+         32,768  28%  226.95kB/s    0:00:00          113,373 100%  785.22kB/s    0:00:00 (xfr#193, to-chk=166/369)
+data/BSDS300-images/BSDS300/images/train/207056.jpg
+         32,768  44%  226.95kB/s    0:00:00           73,195 100%  506.95kB/s    0:00:00 (xfr#194, to-chk=165/369)
+data/BSDS300-images/BSDS300/images/train/209070.jpg
+         32,768  48%  225.35kB/s    0:00:00           67,297 100%  462.81kB/s    0:00:00 (xfr#195, to-chk=164/369)
+data/BSDS300-images/BSDS300/images/train/2092.jpg
+         32,768  60%  225.35kB/s    0:00:00           54,208 100%  372.80kB/s    0:00:00 (xfr#196, to-chk=163/369)
+data/BSDS300-images/BSDS300/images/train/216041.jpg
+         32,768  42%  225.35kB/s    0:00:00           76,751 100%  524.14kB/s    0:00:00 (xfr#197, to-chk=162/369)
+data/BSDS300-images/BSDS300/images/train/216053.jpg
+         32,768  45%  223.78kB/s    0:00:00           71,300 100%  486.92kB/s    0:00:00 (xfr#198, to-chk=161/369)
+data/BSDS300-images/BSDS300/images/train/216066.jpg
+         32,768  39%  223.78kB/s    0:00:00           82,264 100%  561.79kB/s    0:00:00 (xfr#199, to-chk=160/369)
+data/BSDS300-images/BSDS300/images/train/22013.jpg
+         32,768  46%  222.22kB/s    0:00:00           70,845 100%  480.45kB/s    0:00:00 (xfr#200, to-chk=159/369)
+data/BSDS300-images/BSDS300/images/train/22090.jpg
+         32,768  62%  222.22kB/s    0:00:00           52,722 100%  357.54kB/s    0:00:00 (xfr#201, to-chk=158/369)
+data/BSDS300-images/BSDS300/images/train/22093.jpg
+         32,768  42%  220.69kB/s    0:00:00           76,904 100%  517.94kB/s    0:00:00 (xfr#202, to-chk=157/369)
+data/BSDS300-images/BSDS300/images/train/225017.jpg
+         32,768  38%  220.69kB/s    0:00:00           84,430 100%  568.63kB/s    0:00:00 (xfr#203, to-chk=156/369)
+data/BSDS300-images/BSDS300/images/train/227040.jpg
+         32,768  58%  220.69kB/s    0:00:00           55,941 100%  376.76kB/s    0:00:00 (xfr#204, to-chk=155/369)
+data/BSDS300-images/BSDS300/images/train/227046.jpg
+         32,768  44%  219.18kB/s    0:00:00           73,561 100%  492.03kB/s    0:00:00 (xfr#205, to-chk=154/369)
+data/BSDS300-images/BSDS300/images/train/23025.jpg
+         32,768  50%  219.18kB/s    0:00:00           65,137 100%  435.69kB/s    0:00:00 (xfr#206, to-chk=153/369)
+data/BSDS300-images/BSDS300/images/train/23080.jpg
+         32,768  47%  217.69kB/s    0:00:00           69,077 100%  458.90kB/s    0:00:00 (xfr#207, to-chk=152/369)
+data/BSDS300-images/BSDS300/images/train/23084.jpg
+         32,768  45%  217.69kB/s    0:00:00           71,374 100%  474.16kB/s    0:00:00 (xfr#208, to-chk=151/369)
+data/BSDS300-images/BSDS300/images/train/231015.jpg
+         32,768  33%  216.22kB/s    0:00:00           97,220 100%  641.50kB/s    0:00:00 (xfr#209, to-chk=150/369)
+data/BSDS300-images/BSDS300/images/train/232038.jpg
+         32,768  47%  216.22kB/s    0:00:00           68,355 100%  451.03kB/s    0:00:00 (xfr#210, to-chk=149/369)
+data/BSDS300-images/BSDS300/images/train/236017.jpg
+         32,768  37%  214.77kB/s    0:00:00           88,244 100%  578.36kB/s    0:00:00 (xfr#211, to-chk=148/369)
+data/BSDS300-images/BSDS300/images/train/238011.jpg
+         32,768  98%  214.77kB/s    0:00:00           33,297 100%  218.23kB/s    0:00:00 (xfr#212, to-chk=147/369)
+data/BSDS300-images/BSDS300/images/train/239007.jpg
+         32,768  43%  213.33kB/s    0:00:00           75,917 100%  494.25kB/s    0:00:00 (xfr#213, to-chk=146/369)
+data/BSDS300-images/BSDS300/images/train/239096.jpg
+         32,768  55%  213.33kB/s    0:00:00           58,612 100%  381.59kB/s    0:00:00 (xfr#214, to-chk=145/369)
+data/BSDS300-images/BSDS300/images/train/24004.jpg
+         32,768  42%  211.92kB/s    0:00:00           77,723 100%  502.66kB/s    0:00:00 (xfr#215, to-chk=144/369)
+data/BSDS300-images/BSDS300/images/train/24063.jpg
+         32,768  83%  211.92kB/s    0:00:00           39,120 100%  253.00kB/s    0:00:00 (xfr#216, to-chk=143/369)
+data/BSDS300-images/BSDS300/images/train/242078.jpg
+         32,768  39%  211.92kB/s    0:00:00           83,046 100%  537.08kB/s    0:00:00 (xfr#217, to-chk=142/369)
+data/BSDS300-images/BSDS300/images/train/245051.jpg
+         32,768  49%  210.53kB/s    0:00:00           65,817 100%  422.86kB/s    0:00:00 (xfr#218, to-chk=141/369)
+data/BSDS300-images/BSDS300/images/train/246016.jpg
+         32,768  60%  210.53kB/s    0:00:00           54,069 100%  347.38kB/s    0:00:00 (xfr#219, to-chk=140/369)
+data/BSDS300-images/BSDS300/images/train/246053.jpg
+         32,768  72%  209.15kB/s    0:00:00           45,026 100%  287.39kB/s    0:00:00 (xfr#220, to-chk=139/369)
+data/BSDS300-images/BSDS300/images/train/247085.jpg
+         32,768  47%  209.15kB/s    0:00:00           69,123 100%  441.20kB/s    0:00:00 (xfr#221, to-chk=138/369)
+data/BSDS300-images/BSDS300/images/train/249061.jpg
+         32,768  54%  209.15kB/s    0:00:00           59,735 100%  381.27kB/s    0:00:00 (xfr#222, to-chk=137/369)
+data/BSDS300-images/BSDS300/images/train/249087.jpg
+         32,768  37%  207.79kB/s    0:00:00           86,295 100%  547.22kB/s    0:00:00 (xfr#223, to-chk=136/369)
+data/BSDS300-images/BSDS300/images/train/25098.jpg
+         32,768  40%  207.79kB/s    0:00:00           80,148 100%  508.24kB/s    0:00:00 (xfr#224, to-chk=135/369)
+data/BSDS300-images/BSDS300/images/train/253036.jpg
+         32,768  77%  206.45kB/s    0:00:00           42,387 100%  267.06kB/s    0:00:00 (xfr#225, to-chk=134/369)
+data/BSDS300-images/BSDS300/images/train/254033.jpg
+         32,768  35%  206.45kB/s    0:00:00           92,759 100%  584.42kB/s    0:00:00 (xfr#226, to-chk=133/369)
+data/BSDS300-images/BSDS300/images/train/254054.jpg
+         32,768  32%  206.45kB/s    0:00:00          100,361 100%  632.31kB/s    0:00:00 (xfr#227, to-chk=132/369)
+data/BSDS300-images/BSDS300/images/train/260081.jpg
+         32,768  43%  205.13kB/s    0:00:00           75,732 100%  474.08kB/s    0:00:00 (xfr#228, to-chk=131/369)
+data/BSDS300-images/BSDS300/images/train/26031.jpg
+         32,768  30%  203.82kB/s    0:00:00          107,129 100%  666.36kB/s    0:00:00 (xfr#229, to-chk=130/369)
+data/BSDS300-images/BSDS300/images/train/268002.jpg
+         32,768  53%  203.82kB/s    0:00:00           61,826 100%  384.57kB/s    0:00:00 (xfr#230, to-chk=129/369)
+data/BSDS300-images/BSDS300/images/train/27059.jpg
+         32,768  45%  202.53kB/s    0:00:00           72,530 100%  448.29kB/s    0:00:00 (xfr#231, to-chk=128/369)
+data/BSDS300-images/BSDS300/images/train/271008.jpg
+         32,768  47%  202.53kB/s    0:00:00           69,413 100%  429.03kB/s    0:00:00 (xfr#232, to-chk=127/369)
+data/BSDS300-images/BSDS300/images/train/271031.jpg
+         32,768  88%  202.53kB/s    0:00:00           37,010 100%  227.31kB/s    0:00:00 (xfr#233, to-chk=126/369)
+data/BSDS300-images/BSDS300/images/train/274007.jpg
+         32,768  32%  200.00kB/s    0:00:00           99,691 100%  608.47kB/s    0:00:00 (xfr#234, to-chk=125/369)
+data/BSDS300-images/BSDS300/images/train/277095.jpg
+         32,768  38%  200.00kB/s    0:00:00           86,137 100%  525.74kB/s    0:00:00 (xfr#235, to-chk=124/369)
+data/BSDS300-images/BSDS300/images/train/28075.jpg
+         32,768  37%  198.76kB/s    0:00:00           86,305 100%  523.49kB/s    0:00:00 (xfr#236, to-chk=123/369)
+data/BSDS300-images/BSDS300/images/train/28096.jpg
+         32,768  46%  197.53kB/s    0:00:00           71,084 100%  428.51kB/s    0:00:00 (xfr#237, to-chk=122/369)
+data/BSDS300-images/BSDS300/images/train/285036.jpg
+         32,768  58%  197.53kB/s    0:00:00           56,346 100%  339.66kB/s    0:00:00 (xfr#238, to-chk=121/369)
+data/BSDS300-images/BSDS300/images/train/286092.jpg
+         32,768  52%  196.32kB/s    0:00:00           62,250 100%  372.95kB/s    0:00:00 (xfr#239, to-chk=120/369)
+data/BSDS300-images/BSDS300/images/train/292066.jpg
+         32,768  40%  196.32kB/s    0:00:00           80,733 100%  483.69kB/s    0:00:00 (xfr#240, to-chk=119/369)
+data/BSDS300-images/BSDS300/images/train/293029.jpg
+         32,768  38%  195.12kB/s    0:00:00           84,216 100%  501.48kB/s    0:00:00 (xfr#241, to-chk=118/369)
+data/BSDS300-images/BSDS300/images/train/299091.jpg
+         32,768  69%  195.12kB/s    0:00:00           46,971 100%  279.70kB/s    0:00:00 (xfr#242, to-chk=117/369)
+data/BSDS300-images/BSDS300/images/train/301007.jpg
+         32,768  39%  195.12kB/s    0:00:00           82,056 100%  485.65kB/s    0:00:00 (xfr#243, to-chk=116/369)
+data/BSDS300-images/BSDS300/images/train/302003.jpg
+         32,768  54%  193.94kB/s    0:00:00           59,611 100%  352.81kB/s    0:00:00 (xfr#244, to-chk=115/369)
+data/BSDS300-images/BSDS300/images/train/309004.jpg
+         32,768  28%  193.94kB/s    0:00:00          116,317 100%  684.28kB/s    0:00:00 (xfr#245, to-chk=114/369)
+data/BSDS300-images/BSDS300/images/train/310007.jpg
+         32,768  46%  192.77kB/s    0:00:00           70,068 100%  412.20kB/s    0:00:00 (xfr#246, to-chk=113/369)
+data/BSDS300-images/BSDS300/images/train/311068.jpg
+         32,768  35%  192.77kB/s    0:00:00           93,391 100%  549.41kB/s    0:00:00 (xfr#247, to-chk=112/369)
+data/BSDS300-images/BSDS300/images/train/311081.jpg
+         32,768  30%  190.48kB/s    0:00:00          107,769 100%  626.45kB/s    0:00:00 (xfr#248, to-chk=111/369)
+data/BSDS300-images/BSDS300/images/train/314016.jpg
+         32,768  45%  190.48kB/s    0:00:00           72,554 100%  421.75kB/s    0:00:00 (xfr#249, to-chk=110/369)
+data/BSDS300-images/BSDS300/images/train/317080.jpg
+         32,768  50%  190.48kB/s    0:00:00           65,051 100%  378.13kB/s    0:00:00 (xfr#250, to-chk=109/369)
+data/BSDS300-images/BSDS300/images/train/323016.jpg
+         32,768  49%  189.35kB/s    0:00:00           65,995 100%  381.35kB/s    0:00:00 (xfr#251, to-chk=108/369)
+data/BSDS300-images/BSDS300/images/train/326038.jpg
+         32,768  30%  189.35kB/s    0:00:00          109,153 100%  630.74kB/s    0:00:00 (xfr#252, to-chk=107/369)
+data/BSDS300-images/BSDS300/images/train/33066.jpg
+         32,768  41%  188.24kB/s    0:00:00           78,538 100%  451.16kB/s    0:00:00 (xfr#253, to-chk=106/369)
+data/BSDS300-images/BSDS300/images/train/35008.jpg
+         32,768  75%  188.24kB/s    0:00:00           43,246 100%  248.43kB/s    0:00:00 (xfr#254, to-chk=105/369)
+data/BSDS300-images/BSDS300/images/train/35010.jpg
+         32,768  39%  187.13kB/s    0:00:00           82,640 100%  471.95kB/s    0:00:00 (xfr#255, to-chk=104/369)
+data/BSDS300-images/BSDS300/images/train/35058.jpg
+         32,768  75%  187.13kB/s    0:00:00           43,382 100%  247.75kB/s    0:00:00 (xfr#256, to-chk=103/369)
+data/BSDS300-images/BSDS300/images/train/35070.jpg
+         32,768  71%  186.05kB/s    0:00:00           45,550 100%  258.62kB/s    0:00:00 (xfr#257, to-chk=102/369)
+data/BSDS300-images/BSDS300/images/train/35091.jpg
+         32,768  33%  184.97kB/s    0:00:00           98,551 100%  556.31kB/s    0:00:00 (xfr#258, to-chk=101/369)
+data/BSDS300-images/BSDS300/images/train/353013.jpg
+         32,768  48%  184.97kB/s    0:00:00           67,699 100%  382.15kB/s    0:00:00 (xfr#259, to-chk=100/369)
+data/BSDS300-images/BSDS300/images/train/361084.jpg
+         32,768  38%  183.91kB/s    0:00:00           84,327 100%  473.28kB/s    0:00:00 (xfr#260, to-chk=99/369)
+data/BSDS300-images/BSDS300/images/train/365025.jpg
+         32,768  53%  183.91kB/s    0:00:00           60,793 100%  341.20kB/s    0:00:00 (xfr#261, to-chk=98/369)
+data/BSDS300-images/BSDS300/images/train/365073.jpg
+         32,768  26%  182.86kB/s    0:00:00          123,972 100%  691.81kB/s    0:00:00 (xfr#262, to-chk=97/369)
+data/BSDS300-images/BSDS300/images/train/368016.jpg
+         32,768  42%  182.86kB/s    0:00:00           76,946 100%  429.39kB/s    0:00:00 (xfr#263, to-chk=96/369)
+data/BSDS300-images/BSDS300/images/train/368078.jpg
+         32,768  40%  181.82kB/s    0:00:00           80,072 100%  444.29kB/s    0:00:00 (xfr#264, to-chk=95/369)
+data/BSDS300-images/BSDS300/images/train/370036.jpg
+         32,768  45%  180.79kB/s    0:00:00           72,239 100%  398.56kB/s    0:00:00 (xfr#265, to-chk=94/369)
+data/BSDS300-images/BSDS300/images/train/372047.jpg
+         32,768  42%  180.79kB/s    0:00:00           77,750 100%  428.97kB/s    0:00:00 (xfr#266, to-chk=93/369)
+data/BSDS300-images/BSDS300/images/train/374020.jpg
+         32,768  45%  179.78kB/s    0:00:00           71,608 100%  392.86kB/s    0:00:00 (xfr#267, to-chk=92/369)
+data/BSDS300-images/BSDS300/images/train/374067.jpg
+         32,768  50%  179.78kB/s    0:00:00           64,260 100%  352.55kB/s    0:00:00 (xfr#268, to-chk=91/369)
+data/BSDS300-images/BSDS300/images/train/376001.jpg
+         32,768  34%  178.77kB/s    0:00:00           94,238 100%  514.13kB/s    0:00:00 (xfr#269, to-chk=90/369)
+data/BSDS300-images/BSDS300/images/train/376020.jpg
+         32,768  38%  177.78kB/s    0:00:00           85,165 100%  462.05kB/s    0:00:00 (xfr#270, to-chk=89/369)
+data/BSDS300-images/BSDS300/images/train/385028.jpg
+         32,768  38%  177.78kB/s    0:00:00           84,296 100%  457.34kB/s    0:00:00 (xfr#271, to-chk=88/369)
+data/BSDS300-images/BSDS300/images/train/388016.jpg
+         32,768  39%  176.80kB/s    0:00:00           82,833 100%  446.91kB/s    0:00:00 (xfr#272, to-chk=87/369)
+data/BSDS300-images/BSDS300/images/train/41004.jpg
+         32,768  68%  176.80kB/s    0:00:00           47,548 100%  256.54kB/s    0:00:00 (xfr#273, to-chk=86/369)
+data/BSDS300-images/BSDS300/images/train/41025.jpg
+         32,768  35%  175.82kB/s    0:00:00           92,680 100%  497.30kB/s    0:00:00 (xfr#274, to-chk=85/369)
+data/BSDS300-images/BSDS300/images/train/42044.jpg
+         32,768  63%  175.82kB/s    0:00:00           51,644 100%  277.11kB/s    0:00:00 (xfr#275, to-chk=84/369)
+data/BSDS300-images/BSDS300/images/train/42078.jpg
+         32,768  84%  175.82kB/s    0:00:00           38,986 100%  209.19kB/s    0:00:00 (xfr#276, to-chk=83/369)
+data/BSDS300-images/BSDS300/images/train/43070.jpg
+         32,768  58%  174.86kB/s    0:00:00           55,916 100%  298.39kB/s    0:00:00 (xfr#277, to-chk=82/369)
+data/BSDS300-images/BSDS300/images/train/43083.jpg
+         32,768  46%  174.86kB/s    0:00:00           70,067 100%  373.91kB/s    0:00:00 (xfr#278, to-chk=81/369)
+data/BSDS300-images/BSDS300/images/train/45077.jpg
+         32,768  38%  173.91kB/s    0:00:00           84,287 100%  447.35kB/s    0:00:00 (xfr#279, to-chk=80/369)
+data/BSDS300-images/BSDS300/images/train/46076.jpg
+         32,768  54%  173.91kB/s    0:00:00           60,054 100%  318.73kB/s    0:00:00 (xfr#280, to-chk=79/369)
+data/BSDS300-images/BSDS300/images/train/48055.jpg
+         32,768  42%  173.91kB/s    0:00:00           76,651 100%  406.82kB/s    0:00:00 (xfr#281, to-chk=78/369)
+data/BSDS300-images/BSDS300/images/train/54005.jpg
+         32,768  35%  172.97kB/s    0:00:00           91,356 100%  482.24kB/s    0:00:00 (xfr#282, to-chk=77/369)
+data/BSDS300-images/BSDS300/images/train/55067.jpg
+         32,768  88%  172.97kB/s    0:00:00           36,855 100%  194.55kB/s    0:00:00 (xfr#283, to-chk=76/369)
+data/BSDS300-images/BSDS300/images/train/55075.jpg
+         32,768  46%  172.04kB/s    0:00:00           70,037 100%  367.72kB/s    0:00:00 (xfr#284, to-chk=75/369)
+data/BSDS300-images/BSDS300/images/train/56028.jpg
+         32,768  34%  172.04kB/s    0:00:00           95,362 100%  500.68kB/s    0:00:00 (xfr#285, to-chk=74/369)
+data/BSDS300-images/BSDS300/images/train/59078.jpg
+         32,768  51%  171.12kB/s    0:00:00           63,162 100%  329.85kB/s    0:00:00 (xfr#286, to-chk=73/369)
+data/BSDS300-images/BSDS300/images/train/60079.jpg
+         32,768  97%  171.12kB/s    0:00:00           33,678 100%  175.88kB/s    0:00:00 (xfr#287, to-chk=72/369)
+data/BSDS300-images/BSDS300/images/train/61060.jpg
+         32,768  43%  170.21kB/s    0:00:00           75,578 100%  392.59kB/s    0:00:00 (xfr#288, to-chk=71/369)
+data/BSDS300-images/BSDS300/images/train/61086.jpg
+         32,768  33%  170.21kB/s    0:00:00           96,920 100%  503.45kB/s    0:00:00 (xfr#289, to-chk=70/369)
+data/BSDS300-images/BSDS300/images/train/65010.jpg
+         32,768  42%  169.31kB/s    0:00:00           76,723 100%  396.43kB/s    0:00:00 (xfr#290, to-chk=69/369)
+data/BSDS300-images/BSDS300/images/train/65019.jpg
+         32,768  44%  169.31kB/s    0:00:00           74,234 100%  383.57kB/s    0:00:00 (xfr#291, to-chk=68/369)
+data/BSDS300-images/BSDS300/images/train/65074.jpg
+         32,768  47%  168.42kB/s    0:00:00           68,954 100%  354.41kB/s    0:00:00 (xfr#292, to-chk=67/369)
+data/BSDS300-images/BSDS300/images/train/65132.jpg
+         32,768  39%  168.42kB/s    0:00:00           83,006 100%  426.63kB/s    0:00:00 (xfr#293, to-chk=66/369)
+data/BSDS300-images/BSDS300/images/train/66039.jpg
+         32,768  42%  168.42kB/s    0:00:00           76,757 100%  394.52kB/s    0:00:00 (xfr#294, to-chk=65/369)
+data/BSDS300-images/BSDS300/images/train/66075.jpg
+         32,768  75%  167.54kB/s    0:00:00           43,381 100%  221.80kB/s    0:00:00 (xfr#295, to-chk=64/369)
+data/BSDS300-images/BSDS300/images/train/67079.jpg
+         32,768  44%  167.54kB/s    0:00:00           74,424 100%  380.52kB/s    0:00:00 (xfr#296, to-chk=63/369)
+data/BSDS300-images/BSDS300/images/train/68077.jpg
+         32,768  47%  166.67kB/s    0:00:00           69,543 100%  353.71kB/s    0:00:00 (xfr#297, to-chk=62/369)
+data/BSDS300-images/BSDS300/images/train/71046.jpg
+         32,768  61%  166.67kB/s    0:00:00           53,355 100%  271.38kB/s    0:00:00 (xfr#298, to-chk=61/369)
+data/BSDS300-images/BSDS300/images/train/76002.jpg
+         32,768  41%  165.80kB/s    0:00:00           79,014 100%  399.80kB/s    0:00:00 (xfr#299, to-chk=60/369)
+data/BSDS300-images/BSDS300/images/train/78019.jpg
+         32,768  38%  165.80kB/s    0:00:00           86,063 100%  435.47kB/s    0:00:00 (xfr#300, to-chk=59/369)
+data/BSDS300-images/BSDS300/images/train/80099.jpg
+         32,768  62%  164.95kB/s    0:00:00           52,144 100%  262.48kB/s    0:00:00 (xfr#301, to-chk=58/369)
+data/BSDS300-images/BSDS300/images/train/8049.jpg
+         32,768  55%  164.95kB/s    0:00:00           59,351 100%  298.76kB/s    0:00:00 (xfr#302, to-chk=57/369)
+data/BSDS300-images/BSDS300/images/train/8143.jpg
+         32,768  28%  164.95kB/s    0:00:00          114,270 100%  572.27kB/s    0:00:00 (xfr#303, to-chk=56/369)
+data/BSDS300-images/BSDS300/images/train/87065.jpg
+         32,768  30%  164.10kB/s    0:00:00          106,791 100%  534.81kB/s    0:00:00 (xfr#304, to-chk=55/369)
+data/BSDS300-images/BSDS300/images/train/90076.jpg
+         32,768  62%  164.10kB/s    0:00:00           52,672 100%  263.78kB/s    0:00:00 (xfr#305, to-chk=54/369)
+data/BSDS300-images/BSDS300/images/train/92059.jpg
+         32,768  40%  163.27kB/s    0:00:00           80,156 100%  399.37kB/s    0:00:00 (xfr#306, to-chk=53/369)
+data/BSDS300-images/BSDS300/images/train/94079.jpg
+         32,768  36%  163.27kB/s    0:00:00           90,521 100%  451.02kB/s    0:00:00 (xfr#307, to-chk=52/369)
+data/BSDS300-images/BSDS300/images/train/95006.jpg
+         32,768  31%  162.44kB/s    0:00:00          103,745 100%  514.28kB/s    0:00:00 (xfr#308, to-chk=51/369)
+data/BSDS300-images/BSDS300/images/train/97017.jpg
+         32,768  53%  162.44kB/s    0:00:00           61,708 100%  305.90kB/s    0:00:00 (xfr#309, to-chk=50/369)
+data/MNIST/
+data/MNIST/raw/
+data/MNIST/raw/t10k-images-idx3-ubyte
+         32,768   0%  153.85kB/s    0:00:50        7,840,016 100%   33.99MB/s    0:00:00 (xfr#310, to-chk=48/369)
+data/MNIST/raw/t10k-images-idx3-ubyte.gz
+         32,768   1%  144.14kB/s    0:00:11        1,648,877 100%    7.02MB/s    0:00:00 (xfr#311, to-chk=47/369)
+data/MNIST/raw/t10k-labels-idx1-ubyte
+         10,008 100%   43.44kB/s    0:00:00           10,008 100%   43.44kB/s    0:00:00 (xfr#312, to-chk=46/369)
+data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+          4,542 100%   19.71kB/s    0:00:00            4,542 100%   19.71kB/s    0:00:00 (xfr#313, to-chk=45/369)
+data/MNIST/raw/train-images-idx3-ubyte
+         32,768   0%  138.53kB/s    0:05:39       47,040,016 100%  147.08MB/s    0:00:00 (xfr#314, to-chk=44/369)
+data/MNIST/raw/train-images-idx3-ubyte.gz
+         32,768   0%  102.56kB/s    0:01:36        9,912,422 100%   28.47MB/s    0:00:00 (xfr#315, to-chk=43/369)
+data/MNIST/raw/train-labels-idx1-ubyte
+         32,768  54%   96.39kB/s    0:00:00           60,008 100%  176.51kB/s    0:00:00 (xfr#316, to-chk=42/369)
+data/MNIST/raw/train-labels-idx1-ubyte.gz
+         28,881 100%   84.70kB/s    0:00:00           28,881 100%   84.70kB/s    0:00:00 (xfr#317, to-chk=41/369)
+data/gaussian_blur/
+data/gaussian_blur/OUTPUT_bl_info.csv
+         16,922 100%   49.63kB/s    0:00:00           16,922 100%   49.63kB/s    0:00:00 (xfr#318, to-chk=40/369)
+data/gaussian_blur/OUTPUT_params.npz
+         32,768  23%   95.81kB/s    0:00:01          137,378 100%  401.67kB/s    0:00:00 (xfr#319, to-chk=39/369)
+data/gaussian_blur/OUTPUT_plot_timings.png
+         32,768  27%   95.52kB/s    0:00:00          120,118 100%  350.16kB/s    0:00:00 (xfr#320, to-chk=38/369)
+data/gaussian_blur/OUTPUT_recons.npz
+         32,768   0%   93.84kB/s    0:16:45       94,389,410 100%  125.20MB/s    0:00:00 (xfr#321, to-chk=37/369)
+data/inpainting/
+data/inpainting/OUTPUT_bl_info.csv
+         23,521 100%   31.90kB/s    0:00:00           23,521 100%   31.90kB/s    0:00:00 (xfr#322, to-chk=36/369)
+data/inpainting/OUTPUT_params.npz
+         32,768  37%   44.44kB/s    0:00:01           87,672 100%  118.91kB/s    0:00:00 (xfr#323, to-chk=35/369)
+data/inpainting/OUTPUT_plot_timings.png
+         32,768  27%   44.38kB/s    0:00:01          118,638 100%  160.69kB/s    0:00:00 (xfr#324, to-chk=34/369)
+data/inpainting/OUTPUT_recons.npz
+         32,768   0%   41.67kB/s    0:52:25       33,062,912  25%   31.53MB/s    0:00:03      131,096,402 100%   84.93MB/s    0:00:01 (xfr#325, to-chk=33/369)
+src/
+src/bilevel.py
+         28,084 100%   57.86kB/s    0:00:00           28,084 100%   57.86kB/s    0:00:00 (xfr#326, to-chk=32/369)
+src/configurations.py
+          2,463 100%    5.07kB/s    0:00:00            2,463 100%    5.07kB/s    0:00:00 (xfr#327, to-chk=31/369)
+src/create_cost_functions.py
+          8,436 100%   17.38kB/s    0:00:00            8,436 100%   17.38kB/s    0:00:00 (xfr#328, to-chk=30/369)
+src/functionals.py
+         27,413 100%   56.36kB/s    0:00:00           27,413 100%   56.36kB/s    0:00:00 (xfr#329, to-chk=29/369)
+src/linear_ops.py
+          9,101 100%   18.71kB/s    0:00:00            9,101 100%   18.71kB/s    0:00:00 (xfr#330, to-chk=28/369)
+src/opt_backup.py
+         28,400 100%   58.39kB/s    0:00:00           28,400 100%   58.39kB/s    0:00:00 (xfr#331, to-chk=27/369)
+src/optimisers.py
+         32,768  89%   67.23kB/s    0:00:00           36,665 100%   75.22kB/s    0:00:00 (xfr#332, to-chk=26/369)
+src/plotting.py
+         22,874 100%   46.93kB/s    0:00:00           22,874 100%   46.93kB/s    0:00:00 (xfr#333, to-chk=25/369)
+src/recycle.py
+         14,061 100%   28.85kB/s    0:00:00           14,061 100%   28.85kB/s    0:00:00 (xfr#334, to-chk=24/369)
+src/recycle_utils.py
+         23,977 100%   49.09kB/s    0:00:00           23,977 100%   49.09kB/s    0:00:00 (xfr#335, to-chk=23/369)
+src/utils.py
+         10,650 100%   21.80kB/s    0:00:00           10,650 100%   21.80kB/s    0:00:00 (xfr#336, to-chk=22/369)
+src/__pycache__/
+src/__pycache__/bilevel.cpython-312.pyc
+         18,590 100%   38.06kB/s    0:00:00           18,590 100%   38.06kB/s    0:00:00 (xfr#337, to-chk=20/369)
+src/__pycache__/bilevel.cpython-313.pyc
+         18,426 100%   37.64kB/s    0:00:00           18,426 100%   37.64kB/s    0:00:00 (xfr#338, to-chk=19/369)
+src/__pycache__/bilevel_torch.cpython-313.pyc
+         16,040 100%   32.77kB/s    0:00:00           16,040 100%   32.77kB/s    0:00:00 (xfr#339, to-chk=18/369)
+src/__pycache__/configurations.cpython-312.pyc
+          1,955 100%    3.99kB/s    0:00:00            1,955 100%    3.99kB/s    0:00:00 (xfr#340, to-chk=17/369)
+src/__pycache__/configurations.cpython-313.pyc
+          1,948 100%    3.97kB/s    0:00:00            1,948 100%    3.97kB/s    0:00:00 (xfr#341, to-chk=16/369)
+src/__pycache__/create_cost_functions.cpython-312.pyc
+          9,723 100%   19.82kB/s    0:00:00            9,723 100%   19.82kB/s    0:00:00 (xfr#342, to-chk=15/369)
+src/__pycache__/create_cost_functions.cpython-313.pyc
+          9,661 100%   19.70kB/s    0:00:00            9,661 100%   19.70kB/s    0:00:00 (xfr#343, to-chk=14/369)
+src/__pycache__/functionals.cpython-312.pyc
+         32,768  79%   66.67kB/s    0:00:00           41,051 100%   83.52kB/s    0:00:00 (xfr#344, to-chk=13/369)
+src/__pycache__/functionals.cpython-313.pyc
+         32,768  79%   66.67kB/s    0:00:00           41,130 100%   83.68kB/s    0:00:00 (xfr#345, to-chk=12/369)
+src/__pycache__/linear_ops.cpython-312.pyc
+          8,772 100%   17.85kB/s    0:00:00            8,772 100%   17.85kB/s    0:00:00 (xfr#346, to-chk=11/369)
+src/__pycache__/linear_ops.cpython-313.pyc
+          8,806 100%   17.92kB/s    0:00:00            8,806 100%   17.88kB/s    0:00:00 (xfr#347, to-chk=10/369)
+src/__pycache__/optimisers.cpython-312.pyc
+         30,087 100%   61.08kB/s    0:00:00           30,087 100%   61.08kB/s    0:00:00 (xfr#348, to-chk=9/369)
+src/__pycache__/optimisers.cpython-313.pyc
+         30,240 100%   61.40kB/s    0:00:00           30,240 100%   61.40kB/s    0:00:00 (xfr#349, to-chk=8/369)
+src/__pycache__/plotting.cpython-312.pyc
+         30,549 100%   62.02kB/s    0:00:00           30,549 100%   62.02kB/s    0:00:00 (xfr#350, to-chk=7/369)
+src/__pycache__/plotting.cpython-313.pyc
+         25,692 100%   52.05kB/s    0:00:00           25,692 100%   52.05kB/s    0:00:00 (xfr#351, to-chk=6/369)
+src/__pycache__/recycle.cpython-312.pyc
+         18,683 100%   37.85kB/s    0:00:00           18,683 100%   37.85kB/s    0:00:00 (xfr#352, to-chk=5/369)
+src/__pycache__/recycle.cpython-313.pyc
+         18,443 100%   37.29kB/s    0:00:00           18,443 100%   37.29kB/s    0:00:00 (xfr#353, to-chk=4/369)
+src/__pycache__/recycle_utils.cpython-312.pyc
+         23,189 100%   46.89kB/s    0:00:00           23,189 100%   46.89kB/s    0:00:00 (xfr#354, to-chk=3/369)
+src/__pycache__/recycle_utils.cpython-313.pyc
+         19,180 100%   38.78kB/s    0:00:00           19,180 100%   38.78kB/s    0:00:00 (xfr#355, to-chk=2/369)
+src/__pycache__/utils.cpython-312.pyc
+         13,718 100%   27.68kB/s    0:00:00           13,718 100%   27.68kB/s    0:00:00 (xfr#356, to-chk=1/369)
+src/__pycache__/utils.cpython-313.pyc
+         10,105 100%   20.39kB/s    0:00:00           10,105 100%   20.39kB/s    0:00:00 (xfr#357, to-chk=0/369)
+This script is running on:
+jn101
+MASTER_PORT=16801
+MASTER_ADDR=jn101
+Using device: cuda
+
+NVIDIA L40
+Memory Usage:
+Allocated: 0.0 MB
+Cached:    0.0 MB
+
+Total time : 2233.284 | 100.0%
+Lower level: 1612.017 | 72.18%
+Hessian    : 549.082 | 24.59%
+Misc       : 72.184 | 3.23%
+ Init filter PSNR    : 12.268
+ Learned filter PSNR : 18.516

@@ -1,0 +1,56 @@
+{
+    "problem_setup": {
+        "data_num": 48,
+        "forward_op": "inpainting",
+        "ground_truth": "MNIST",
+        "mask": 0.7,
+        "multiple_As": true,
+        "n": 28,
+        "noiselevel": 0.1,
+        "regulariser": {
+            "eps": 1e-06,
+            "expert": "lorentzian",
+            "filter_num": 24,
+            "filter_shape": 5,
+            "gamma": 0.1,
+            "learn_filters": true,
+            "learn_reg_params": true,
+            "name": "FieldOfExperts",
+            "params": "DCT"
+        },
+        "sigma": 3.0,
+        "train": true
+    },
+    "solver_optns": {
+        "hess_sys": {
+            "max_its": 16000,
+            "recycle_dim": 5,
+            "recycle_strategy": null,
+            "solver": "MINRES",
+            "store_solns": false,
+            "tol": 0.001,
+            "verbose": false,
+            "warm_start": true
+        },
+        "ll_solve": {
+            "full_info": false,
+            "max_its": 16000,
+            "num_store": 10,
+            "solver": "L-BFGS",
+            "store_iters": true,
+            "tol": 0.001,
+            "verbose": false,
+            "warm_start": true
+        },
+        "ul_solve": {
+            "backtrack": true,
+            "full_info": true,
+            "max_its": 1000,
+            "solver": "Adam",
+            "step_size": 0.1,
+            "store_iters": true,
+            "tol": 0.001,
+            "verbose": true
+        }
+    }
+}

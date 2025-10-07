@@ -1,6 +1,6 @@
 # Efficient gradient-based methods for bilevel learning via recycling Krylov subspaces
 Solve a sequence of linear systems employing RMINRES, a recycling Krylov subspace method. Compare recycling strategies based on (harmonic) Ritz vectors and a new quantity, Ritz generalized singular vectors.
-The linear systems arise from solving a bilevel learning problem of determining optimal convolution filters of the fields of experts regularizer for an MNIST inpainting problem. 
+The linear systems arise from solving a bilevel learning problem of determining optimal convolution filters of the fields of experts regularizer.
 
 ## Installation
 The main dependencies are:
@@ -19,7 +19,13 @@ conda env create -f environment.yaml
 in the terminal.
 
 ## Getting started
- All figures and numerical results are already available. To recreate them, there are 3 main files:
- * [generate_bilevel_problem_solution.py](generate_bilevel_problem_solution.py) solves the bilevel learning problem associated with determining optimal filters for fields of experts regularizer of an inpainting MNIST problem.
- * [generate_results.py](generate_results.py) re-solves the sequence of Hessian systems encountered in bilevel learning problem solve, employing numerous recycling Krylov  subspace strategies. 
- * [generate_plots.py](generate_plots.py) displays all results associated with the different recycling strategies.
+To recreate the results and plots associated with the BSDS300 dataset experiment:
+ * [BSDS_generate_bilevel_data.py](BSDS_generate_bilevel_data.py) solves the bilevel learning problem
+ * [BSDS_generate_recycle_data.py](BSDS_generate_recycle_data.py) re-solves the sequence of Hessian systems encountered in the bilevel learning problem, employing numerous recycling Krylov subspace strategies. 
+ * [BSDS_plot.py](BSDS_plot.py) displays all results associated with the different recycling strategies.
+ 
+To recreate the plots associated with the MNIST datset experiments:
+* [MNIST_plot.py](MNIST_plot.pt) displays all results associated with the different recycling strategies
+
+
+
