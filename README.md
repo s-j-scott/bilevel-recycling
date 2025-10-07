@@ -12,11 +12,6 @@ The main dependencies are:
 * [TQDM](https://pypi.org/project/tqdm/) [4.66.5]
 * [Pandas](https://pypi.org/project/pandas/) [2.2.3]
 
-and a full virtual environment can be created using the [environment.yaml](environment.yaml) file in conda by running the line
-```
-conda env create -f environment.yaml
-```
-in the terminal.
 
 ## Getting started
 To recreate the results and plots associated with the BSDS300 dataset experiment:
